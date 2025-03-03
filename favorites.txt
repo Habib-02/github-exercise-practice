@@ -4,3 +4,10 @@ Favorite Foods
 Pizza
 Sushi
 Ice Cream
+
+================
+Favorite Movies
+================
+The Shawshank Redemption
+The Godfather
+The Dark Knight
